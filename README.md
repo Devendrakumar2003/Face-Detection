@@ -1,4 +1,6 @@
-# -Application-of-cyber-physical-system-in-security-audit.
+Face Recognition for Authentication in Banking System.
+•	Implemented a Face Recognition system for secure authentication in a banking system, utilizing YOLO 3, a powerful Convolutional Neural Network (CNN). YOLO 3 enables rapid identification of facial features, enhancing security through efficient object detection and pattern analysis.Tech Stack: YOLO 3, CNN
+
 ###   FACE DETECTION
 
 As we know that the there are millions of devices connected in the world via the internet, the 
